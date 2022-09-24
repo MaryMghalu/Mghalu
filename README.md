@@ -13,6 +13,7 @@ Open index.html in a browser of your choice.(Google Chrome or Edge is recommende
 
 
 Technologies Used
+
 HTML
 
 CSS
