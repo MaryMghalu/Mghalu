@@ -15,7 +15,8 @@ body {
 
 <style>
     
-div {
+div 
+  {
 background-color:seagreen;
 width: 600px;
 border: 40px seagreen;
