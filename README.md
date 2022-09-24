@@ -4,7 +4,7 @@ By Mary Mghalu
 
 Description
 
-This is my coding portfolio. You will find a number of personal projects i have done.I have contributed too as well try my best demonstrate skills and abilities.
+This is my coding portfolio. You will find a number of personal projects i have done.I have contributed too as well as try my best demonstrate skills and abilities.
 
 Setup/Installation Requirements
 
