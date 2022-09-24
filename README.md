@@ -4,7 +4,7 @@ By Mary Mghalu
 
 Description
 
-Here in contains the coding portfolio of Mary Mghalu. You will find a number of projects and i have contributed too as well as worked solo on to demonstrate skills and abilities.
+This is my coding portfolio. You will find a number of other projects and i have contributed too as well as worked solo on to demonstrate skills and abilities.
 
 Setup/Installation Requirements
 
